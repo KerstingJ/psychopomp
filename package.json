@@ -1,0 +1,27 @@
+{
+  "name": "psychopomp",
+  "version": "0.0.1",
+  "description": "tool to help identify unused files in a project directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerstingJ/psychopomp.git"
+  },
+  "keywords": [
+    "deadfile",
+    "deadcode",
+    "node",
+    "js",
+    "react",
+    "psychopomp"
+  ],
+  "author": "Josh Kersting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KerstingJ/psychopomp/issues"
+  },
+  "homepage": "https://github.com/KerstingJ/psychopomp#readme"
+}
