@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/KerstingJ/psychopomp/issues"
   },
-  "homepage": "https://github.com/KerstingJ/psychopomp#readme"
+  "homepage": "https://github.com/KerstingJ/psychopomp#readme",
+  "dependencies": {
+    "collections": "^5.1.9"
+  }
 }
